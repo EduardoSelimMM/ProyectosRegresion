@@ -26,7 +26,7 @@ Este dataset tiene 16 medidas biomédicas de voz de 42 pacientes diagnosticados 
 + edad: Edad en años
 + genero: Mujer u hombre
 + `dias_estudio`: Días desde que se incorporaron en el estudio.
-+ `bio1`,...`bio16`:
++ `bio1`,...`bio16`: 16 medidas de voz biomédicas
 
 ¿Hay diferencias en la variable respuesta que escogió entre pacientes?
 
