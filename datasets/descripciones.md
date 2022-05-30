@@ -30,7 +30,16 @@ Este dataset tiene 16 medidas biomédicas de voz de 42 pacientes diagnosticados 
 
 ¿Hay diferencias en la variable respuesta que escogió entre pacientes?
 
-## Dataset 4:
+## Dataset 4: Aspas aerodinámicas de la NASA
+
+Este dataset se obtuvo de la NASA y consiste de diversas pruebas aerodinámicas y acústicas de secciones bidimensionales y tridimensionales de secciones de aspas aerodinámicas conducidas en un túnel de viento anecoico.
+
++ `frecuency`: Frecuencia en Hertz
++ `angle`: Ángulo de ataque en grados
++ `chord`: Longitud del cordón en metros
++ `free_stream`: Velocidad en metros por segundo
++ `thickness`: Espesor de desplazamiento del lado de succión en metros
++ `sound_pressure`: (Variable respuesta) Nivel de presión del sonido en decibeles
 
 ## Dataset 5:
 
