@@ -67,4 +67,8 @@ La variable respuesta de interés es `Lifetime Post Total Reach`
 
 Archivo: facebook_cosmetic_data.csv
 
-## Dataset 7:
+## Dataset 7: Mercado accionario de Estanbul
+
+Este data set incluye los rendimientos del mercado accionario de Estanbul (ISE). Además el data set incluye el rendimiento de otros 7 índices internacionales: SP, DAX, FTSE, NIKKEI, BOVESPA, MSCE_EU, MSCI_EM del 5 de Jun de 2009 al 22 de Febrero de 2011.
+
+La variable respuesta es ISE
