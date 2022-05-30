@@ -1,13 +1,3 @@
-# Sugerencia para la lectura de los datasets
-
-Usar
-
-`read.csv("direccion_url")`
-
-donde las direcciones url son:
-
-
-
 # Descripción de los data sets
 
 ## Dataset 1: Convertidores de energía marítima 1
@@ -84,3 +74,13 @@ Este data set incluye los rendimientos del mercado accionario de Estanbul (ISE).
 La variable respuesta es ISE
 
 Archivo: estanbul_data.csv
+
+# Sugerencia para la lectura de los datasets
+
+Usar
+
+`read.csv("direccion_url")`
+
+donde las direcciones url son por ejemplo para los datos de las bicicletas:
+
+https://raw.githubusercontent.com/EduardoSelimMM/ProyectosRegresion/main/datasets/SeoulBikeData.csv
