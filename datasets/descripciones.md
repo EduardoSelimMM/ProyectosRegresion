@@ -8,6 +8,8 @@ Este dataset contiene la potencia generada en dos plantas convertidores de energ
 + pais: El país en el que se encuentra la planta
 + A1,... A16: Energía absorbida por cada uno de 16 puntos
 
+Archivo: energy_data01.csv
+
 ## Dataset 2: Convertidores de energía marítima 2
 
 Este dataset contiene la potencia generada en dos plantas convertidores de energía marítima en Adelaide y Tasmania (Australia).
@@ -15,6 +17,8 @@ Este dataset contiene la potencia generada en dos plantas convertidores de energ
 + Variable respuesta: La potencia total generada
 + Pais: El país en el que se encuentra la planta
 + A1,... A16: Energía absorbida por cada uno de 16 puntos
+
+Archivo: energy_data02.csv
 
 ## Dataset 3: Dispositivo de Parkinson
 
@@ -30,6 +34,8 @@ Este dataset tiene 16 medidas biomédicas de voz de 42 pacientes diagnosticados 
 
 ¿Hay diferencias en la variable respuesta que escogió entre pacientes?
 
+Archivo: parkinson.csv
+
 ## Dataset 4: Aspas aerodinámicas de la NASA
 
 Este dataset se obtuvo de la NASA y consiste de diversas pruebas aerodinámicas y acústicas de secciones bidimensionales y tridimensionales de secciones de aspas aerodinámicas conducidas en un túnel de viento anecoico.
@@ -41,7 +47,15 @@ Este dataset se obtuvo de la NASA y consiste de diversas pruebas aerodinámicas 
 + `thickness`: Espesor de desplazamiento del lado de succión en metros
 + `sound_pressure`: (Variable respuesta) Nivel de presión del sonido en decibeles
 
-## Dataset 5:
+Archivo: airfoil.csv
+
+## Dataset 5: Bicicletas en Seul
+
+El datase contiene el conteo de bicicletas públicas rentadas por hora en el Seoul Bike Sharing System de Seúl.
+
+La variable respuesta de interes es `Rented Bike Count`
+
+Archivo: SeoulBikeData.csv
 
 ## Dataset 6:
 
