@@ -57,6 +57,14 @@ La variable respuesta de interes es `Rented Bike Count`
 
 Archivo: SeoulBikeData.csv
 
-## Dataset 6:
+## Dataset 6: Métricas en Facebook
+
+El dataset contiene información de las publicaciones en Facebook durante 2014 en la página (de FB) de una empresa de cosméticos.
+
+Incluye 7 características que se conocen previos a la publicación del post y 12 características para evaluar el impacto de la publicación
+
+La variable respuesta de interés es `Lifetime Post Total Reach`
+
+Archivo: facebook_cosmetic_data.csv
 
 ## Dataset 7:
